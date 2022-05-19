@@ -2,7 +2,6 @@
 Engagement With a Behavior Change App for Alcohol Reduction: Data Visualization for Longitudinal Observational Study
 
 
-Data
 Data set 1 included 19,233 users who downloaded Drink Less between May 17, 2017, and January 22, 2019 (615 days). The inclusion criteria for users included having a baseline AUDIT score of 8 or above, which is indicative of excessive drinking [39]; being from the United Kingdom; being aged 18 years or above; being interested in reducing their alcohol consumption; using app versions 1.0.11 to 1.0.16; and having consented to the Privacy Notice (
 
 Multimedia Appendix 1). Screen views data are recorded automatically and downloaded via Panda scripts from Nodechef (a web-based platform for hosting mobile apps) using a secure https protocol. Sessions were derived from screen views using the Pandas script.
